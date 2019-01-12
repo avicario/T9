@@ -1,5 +1,6 @@
 # T9
-T9 Encoder and Decoder \\
+T9 Encoder and Decoder 
+
 Unweighted FST that maps input digit strings to onto the alphabet consisting of digits, lowercase ASCII characters, 
 the space character, and ASCII punctuation characters.
 
